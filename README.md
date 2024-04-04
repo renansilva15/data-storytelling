@@ -1,0 +1,1 @@
+Siga as informações de cada notebook para obter os datasets, depois disso, crie uma pasta na raiz chamada "datasets" e coloque os datasets dentro.
